@@ -1,4 +1,4 @@
-# Pro Temperature Converter v2.0
+#Temperature Converter 
 
 **INTERN ID - CITS6602**
 
